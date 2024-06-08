@@ -14,7 +14,4 @@ npm install multi-compatibility-checker
 ```bash
 npm test
 ```
-### Link to the NPM Package
-```bash
-[Muti Compatibility Checker NPM Package](https://www.npmjs.com/package/multi-compatibility-checker)
-```
+### Click [here](https://www.npmjs.com/package/multi-compatibility-checker) to go to the NPM Package 
