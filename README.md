@@ -10,7 +10,11 @@ npm install semver
 ```bash
 npm install multi-compatibility-checker
 ```
-## Testing
+## Testing of the package
 ```bash
 npm test
+```
+### Link to the NPM Package
+```bash
+https://www.npmjs.com/package/multi-compatibility-checker
 ```
