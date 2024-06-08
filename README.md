@@ -12,4 +12,5 @@ npm install multi-compatibility-checker
 ```
 ## Testing
 ```bash
-npm test```
+npm test
+```
