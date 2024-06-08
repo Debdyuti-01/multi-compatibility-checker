@@ -16,5 +16,5 @@ npm test
 ```
 ### Link to the NPM Package
 ```bash
-https://www.npmjs.com/package/multi-compatibility-checker
+[Muti Compatibility Checker : NPM Package](https://www.npmjs.com/package/multi-compatibility-checker)
 ```
