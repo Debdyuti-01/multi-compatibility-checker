@@ -6,7 +6,7 @@ This package will check compatibility of your Node.js application with various p
 ```bash
 npm install semver
 ```
-## Installation  the dependency
+## Installation of the package
 ```bash
 npm install multi-compatibility-checker
 ```
