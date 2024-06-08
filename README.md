@@ -5,13 +5,11 @@ This package will check compatibility of your Node.js application with various p
 
 ```bash
 npm install semver
-
-## Installation of the dependency
-
+```
+## Installation  the dependency
 ```bash
 npm install multi-compatibility-checker
-
+```
 ## Testing
-
 ```bash
-npm test
+npm test```
