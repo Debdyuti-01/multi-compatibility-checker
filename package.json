@@ -1,0 +1,22 @@
+{
+  "name": "multi-compatibility-checker",
+  "version": "1.0.0",
+  "description": "This package will check compatibility of your Node.js application with various platforms (Windows, macOS, Linux) and different versions of Node.js and other dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Debdyuti-01/multi-compatibility-checker.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Debdyuti Das",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Debdyuti-01/multi-compatibility-checker/issues"
+  },
+  "homepage": "https://github.com/Debdyuti-01/multi-compatibility-checker#readme"
+}
