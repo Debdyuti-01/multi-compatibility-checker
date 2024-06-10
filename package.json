@@ -1,6 +1,6 @@
 {
   "name": "multi-compatibility-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package will check compatibility of your Node.js application with various platforms (Windows, macOS, Linux) and different versions of Node.js and other dependencies",
   "main": "src/index.js",
   "scripts": {
