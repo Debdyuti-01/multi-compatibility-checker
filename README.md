@@ -12,8 +12,8 @@ npm install semver
 npm install multi-compatibility-checker
 ```
 ## Steps to test within your work folder
-```bash
-#### Create a new folder 
+#### Create a new folder
+```bash 
 mkdir NewFolder
 cd NewFolder
 ```
@@ -23,18 +23,17 @@ npm init
 ```bash
 npm i multi-compatibility-checker
 ```
-```bash
 #### In package.json of NewFolder, after "main" add:
+```bash
 "type": "module"
 ```
-```bash
 #### Create a new index.js in NewFolder, add:
-
+```bash
 import runCompatibilityCheck from "multi-compatibility-checker";
 const result = runCompatibilityCheck();
 console.log(JSON.stringify(result, null, 2));
 ```
-```bash
 #### To test:
+```bash
 node index.js
 ```
