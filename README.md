@@ -11,7 +11,7 @@ npm install semver
 ```bash
 npm install multi-compatibility-checker
 ```
-## Steps to test within your work folder
+## Steps to test the package within your Work Folder
 #### Create a new folder
 ```bash 
 mkdir NewFolder
